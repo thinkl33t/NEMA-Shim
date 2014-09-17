@@ -1,6 +1,6 @@
-mh_width = 75;
-mh_height = 75;
-width = 85;
+mh_width = 100;
+mh_height = 100;
+width = 110;
 
 $fs = 1;
 $fa = 1;
